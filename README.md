@@ -1,5 +1,8 @@
 # paper-input-place
 
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/mlisookplastic-aspect-ratio)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/mlisookplastic-aspect-ratio.svg)](https://vaadin.com/directory/component/mlisookplastic-aspect-ratio)
+
 Google Places Autocomplete styled as a paper-input, providing a convenient material design input for places.
 
 The element is available as a Polymer 3.0 class based module or as a Polymer 2 hybrid supporting Polymer 2.x and 1.x projects.
